@@ -89,11 +89,10 @@ Após a instalação, a rede foi montada fisicamente no laboratório.
 
 Etapas realizadas:
 
-(Fotos e capturas de tela realizadas durante o laboratório)
+![Teste](Teste.png)
 
 Testes:
-
-(Fotos e capturas de tela realizadas durante o laboratório)
+![Test2](Test2.png)
 
 ---
 
